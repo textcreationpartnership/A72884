@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ambassage of tvvo Indian kings sent vnto the high and mightie Prince Maurice Prince of Orange who by the same desire that their sonnes, whom they also haue sent vnto him, might be brought vp in Christian religion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72884</idno>
+            <idno type="STC">STC 17670.5</idno>
+            <idno type="STC">ESTC S125494</idno>
+            <idno type="EEBO-CITATION">99900626</idno>
+            <idno type="PROQUEST">99900626</idno>
+            <idno type="VID">173637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173637)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2082:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ambassage of tvvo Indian kings sent vnto the high and mightie Prince Maurice Prince of Orange who by the same desire that their sonnes, whom they also haue sent vnto him, might be brought vp in Christian religion.</title>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed s'Grauen-Haghe [i.e. London?] ;</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual place of publication conjectured by STC.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maurice, --  Prince of Orange, 1567-1625 --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  India --  Early works to 1800.</term>
+               <term>India --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173637:1"/>
+            <p>AN AMBASSAGE OF TVVO Indian Kings ſent vnto the High and Migh<g ref="char:EOLhyphen"/>tie Prince Maurice Prince of Orange, who by the ſame deſire that their Sonnes, whom they alſo haue ſent vnto him, m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght be brought vp in Chriſtian Religion.</p>
+            <p>Printed s'Grauen-Haghe. 1621.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173637:2"/>
+            <div type="heading">
+               <head>The Suꝑſcription.</head>
+               <p>The High and mighty Prince Maurice by the grace of God Prince of <hi>Orange,</hi> Earle of Naſſau, Catzenelleboghen, Vian<g ref="char:EOLhyphen"/>den, Dietz, Moers, &amp;c. Gouernor and Captaine generall of the Netherland vnited Prouinces, Admirall of the Zea, &amp;c. Reſident in Grauen-Haghen.</p>
+               <list>
+                  <head>The names of two Kings children, and three Princes children, Eaſt Indians brought hether into the Countrie.</head>
+                  <item>
+                     <hi>Don Andreas de Caſtano,</hi> ſonne of the King of Soyen.</item>
+                  <item>
+                     <hi>Don Marcus,</hi> ſonne of the King of Rieland.</item>
+                  <item>
+                     <hi>Laurens Wello<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> Princes children.</item>
+                  <item>
+                     <hi>Laurens de Fretis</hi> Princes children.</item>
+                  <item>
+                     <hi>Iohn Tack.</hi> Princes children.</item>
+               </list>
+            </div>
+            <div type="body_of_text">
+               <pb n="1" facs="tcp:173637:2"/>
+               <head>THE COPPY.</head>
+               <p>MOſt High and Mighty Prince, &amp;c. Wee hope by Gods grace of your Princely excellencies, good health, and proſperitie, and by theſe preſents offer you our willing ſeruice, recommending our ſelues vnto you. The cauſe that hath mooued vs to be ſo bould to write theſe fewes lines vnto you, was firſt propounded vnto vs by the earneſt perſwation and re<g ref="char:EOLhyphen"/>queſt of the worthy Gentleman <hi>Heram van Sp<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l,</hi> (gouernor re<g ref="char:EOLhyphen"/>preſenting heere your Princely perſon in the gouernement of theſe Countries; and to whom we therefore ſhew all obedi<g ref="char:EOLhyphen"/>ence) made vnto vs, to ſend our young ſonnes to be brought vp in the Netherlands: to the end that there they may be taught the grounds of Chriſtian Religion, and brought vp in the ſtudy<g ref="char:EOLhyphen"/>ing of holy Diuinitie. Whereunto in this place we haue ſmall meanes and occaſions offered: We could not by any meanes denie it, but willingly granted thereunto, and accordingly both our young ſonnes are ſent thether, who are the bearers heereof. And as they by reaſon of the great diſtance of places, are now wholy out of our ſights; and conſequently out of our fatherly care and educations, and muſt remaine vnder the protection of other faithfull Princes. By theſe, truſting and confidently re<g ref="char:EOLhyphen"/>poſing our ſelues vpon your Princely courteſie (whoſe immor<g ref="char:EOLhyphen"/>tall fame to vs, that in reſpect of your Princely dignitie, dwell in woods and wilderneſſes, is not hidden:) Moſt earneſtly be<g ref="char:EOLhyphen"/>ſeech your grace, to be pleaſed in our abſence, to caſt your wiſe and reſpectiue eies vpon our children, and to receiue them into
+<pb n="2" facs="tcp:173637:3"/>your Princely protection: To the end, that being educated and well brought vp in learning, and knowledge of Diuinitie, they may in time increaſe and further the honor of Gods name, (namely vnder the blind people of theſe Countries) and withall ſpread the fame of your Princely great and triumphant actions, abroad in forraine Countries: and we will alwaies be ready to requite the ſame vnto your grace by all the ſeruice that we may in any wiſe doe for you; beſeeching the almighty God, moſt Noble Prince, to ſend your grace long life and happy proſperi<g ref="char:EOLhyphen"/>tie in all your Princely gouernement and valiant actions.</p>
+               <closer>
+                  <dateline>Dated in the Caſtle of Ambine, <date>the 1. of Auguſt, 1620.</date>
+                  </dateline>
+                  <signed>Vnderneath your Princely moſt friendly ſubiects &amp; faithfull friends, <hi>Manuel</hi> King of <hi>Kielang,</hi> and <hi>Laurenſo de Sylua,</hi> King of <hi>Soyen.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
